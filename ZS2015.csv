@@ -1,0 +1,492 @@
+,name,enrolled,passed
+0,Algebra [01ALG],42,20
+1,Algebraické struktury v teoretické informatice [01ALTI],12,11
+2,Analogová elektronika [11ANEL],2,1
+3,Analytická chemie 2 [15ANAL2],14,7
+4,Analýza experimentálních dat 1 [14AED1],3,1
+5,Anglický jazyk 1 [818A1],12,10
+6,Anglický jazyk 3 [818A3],1,1
+7,Angličtina M1 [04AM1],59,39
+8,Angličtina M3 [04AM3],56,35
+9,Angličtina P1 [04AP1],80,76
+10,Angličtina P3 [04AP3],81,76
+11,Anorganická chemie 1 [15ANCH1],31,8
+12,Aperiodické struktury 1 [01APST1],12,8
+13,Aplikace ionizujícího záření v medicíně [16AIZM],1,1
+14,Aplikace laserů [12APL],7,2
+15,Aplikace neutronové difrakce [11AND],1,1
+16,Aplikace radionuklidů 1 [15NUK1],8,7
+17,Aplikace SQL [18SQL],38,15
+18,Aplikace teorie grup ve FPL [11APLG],2,0
+19,Aplikovaná ekonometrie a teorie časových řad [18AEK],20,15
+20,Aplikovaná lomová mechanika [D14ALM],5,0
+21,Asistivní technologie [01ASTE],2,0
+22,Athens [00ATH1],0,0
+23,Atomová a molekulová fyzika [02AMF],4,3
+24,Atomová a molekulová spektroskopie [02AMS],2,2
+25,Atomová fyzika [12AF],4,1
+26,Bakalářská práce 1 [818BPSE1],9,1
+27,Bayesovské principy ve statistice [01BAPS],11,8
+28,Bezpečnostní sytémy jaderných reaktorů [17BES],3,0
+29,Biochemie a farmakologie [16BAF],13,11
+30,Business Intelligence [18BI],20,3
+31,Coxeterovy grupy [02COX],1,1
+32,Chemické aspekty pevných látek [11CHA],3,0
+33,Chemie prostředí a radioekologie [15RAEK],11,7
+34,Chemie provozu JE [15CHJE],6,4
+35,Chemie radioaktivních prvků [15CHRP],2,1
+36,Čeština pro cizince mírně pokročilí 1 [04CESM1],62,25
+37,Čeština pro cizince mírně pokročilí 3 [04CESM3],23,21
+38,Čeština pro cizince pokročilí 3 [04CESP3],0,0
+39,Číslicové bezpečnostní systémy [17CIBS],8,2
+40,Dějiny alchymie a chemie [15DALCH],3,0
+41,Dějiny fyziky 1 [02DEF1],347,252
+42,Detekce záření [17DEZ],26,23
+43,Detektory [16DET],14,2
+44,Diferenciální rovnice na počítači [12DRP],19,10
+45,"Diferenciální rovnice, symetrie a grupy [02DRG]",9,3
+46,Difrakční analýza mechanických napětí [11DAN],1,1
+47,Diskretní matematika 1 [01DIM1],98,60
+48,Diskrétní matematika 1 [818DIM1],13,10
+49,Diskrétní matematika 3 [01DIM3],29,19
+50,Dozimetrie a radiační ochrana [16DRH],18,13
+51,Dozimetrie neutronů [16DNEU],4,2
+52,Dráhový integrál [02DRI],2,0
+53,Dynamické rozhodování [01DYRO],14,11
+54,Dynamika kontinua [14DYKO],3,2
+55,Ekonomické hodnocení JE [17EHJE],6,5
+56,Elastomechanika 2 [14EME2],4,1
+57,Elektrická zařízení jaderných elektráren [17ELZ],12,12
+58,Elektrodynamika 1 [12ELDY1],18,14
+59,Elektronika 3 [12EL3],5,2
+60,Elementary Introduction to Graph Theory [01EIGR],17,10
+61,Etika ve zdravotnictví [16EZ],5,4
+62,Evropský standard počítačové gramotnosti 1 [18ESPG1],27,16
+63,Exaktní metody při studiu památek [16EPAM],3,1
+64,Exkurze na optické pracoviště [12EOP],5,4
+65,Experimentální fyzika 2 [02EXF2],38,25
+66,Experimentální metody jaderné fyziky [02EMJF],10,9
+67,Experimentální metody 1 [14EXM1],3,2
+68,Experimentální testy standardního modelu [02ETSM],1,0
+69,Finanční a pojistná matematika [01FIMA],22,6
+70,Francouzština M1 [04FM1],20,18
+71,Francouzština M3 [04FM3],16,14
+72,Francouzština P1 [04FP1],6,5
+73,Francouzština P3 [04FP3],6,4
+74,Francouzština Z2 [04FZ2],10,9
+75,Francouzština Z4 [04FZ4],15,14
+76,Funkce komplexní proměnné [01FKP],18,11
+77,Funkce komplexní proměnné B [01FKPB],1,1
+78,Funkcionální analýza 1 [01FA1],22,19
+79,Funkcionální analýza 3 [01FA3],15,14
+80,Funkcionální integrál 1 [02FCI1],2,2
+81,Fyzika a technika neionizujícího záření [16FNEI],1,1
+82,Fyzika detekce a detektory optického záření [12FDD],8,6
+83,Fyzika inerciální fúze [12FIF],7,5
+84,Fyzika jaderných reaktorů [17FAR],13,6
+85,Fyzika kovů [11KOV],4,4
+86,Fyzika kovů 1 [11FKO1],3,3
+87,Fyzika laserového plazmatu [D12FLP],4,1
+88,Fyzikální chemie 1 [15FCHN1],12,4
+89,Fyzikální chemie 2 [15FCHN2],19,14
+90,Fyzikální chemie 3 [15FCHN3],9,7
+91,Fyzikální chemie 5 [15FCH5],5,0
+92,Fyzikální metalurgie 1 [14FYM1],3,2
+93,Fyzikální optika 1 [12FOPT1],9,7
+94,Fyzikální seminář 1 [02FYS1],61,26
+95,Fyzika pevných látek [11FYPL],13,8
+96,Fyzika polovodičů 1 [11POL1],5,5
+97,Fyzika povrchů 1 [11FYPO1],2,0
+98,Fyzika tokamaků [02FT],6,4
+99,Fyzika ultrarelativistických jaderných srážek [02RFTI],8,7
+100,Fyzika vysokých hustot energie [12FVHE],5,4
+101,Fyzika 1 [02FYZ1],63,21
+102,Fyzika 1 [802FYZ1],12,10
+103,Fyzika 3 [12BFY3],6,1
+104,Generace ultrakrátkých impulzů [12UKP],6,5
+105,Geometrická teorie diferenciálních rovnic [01GTDR],9,9
+106,Geometrické metody fyziky 1 [02GMF1],9,8
+107,Grupy a reprezentace [02GR],5,5
+108,Historická a sociálně ekonomická hlediska fúze [02HSEF],5,5
+109,Hydrochemie [15HCHE],1,0
+110,Hydrologie a pedologie [15HYPE],1,0
+111,Hygiena a epidemiologie [16HE],4,4
+112,Informatika pro moderní fyziky [17IMF],7,5
+113,Informatika ve zdravotnictví [16INZ],6,5
+114,Informatika 0 [12INF0],6,1
+115,Integrovaná optika [12INTO],14,12
+116,Intenzivní kurz češtiny pro zahraniční studenty anglický jazyk [04CZVAJ1],18,10
+117,Intenzivní kurz češtiny pro zahraniční studenty fonetika [04CZVCJF1],18,18
+118,Intenzivní kurz češtiny pro zahraniční studenty fyzika [04CZVFYZ1],18,0
+119,Intenzivní kurz češtiny pro zahraniční studenty gramatika [04CZVCJG1],18,17
+120,Intenzivní kurz češtiny pro zahraniční studenty konverzace [04CZVCJK1],18,17
+121,Intenzivní kurz češtiny pro zahraniční studenty matematika [04CZVMAT1],18,17
+122,Interakce jaderného záření s látkou [02IJZ],23,20
+123,ITER a doprovodný program [02ITER],6,5
+124,Jaderná a radiační fyzika 1 [16JRF1],5,4
+125,Jaderná astrofyzika [02JAS],13,10
+126,Jaderná bezpečnost [17JBEZ],14,13
+127,Jaderná chemie 2 [15JACH2],22,14
+128,Jaderně energetická zařízení a urychlovače [16ZJTB],8,4
+129,Klinická propedeutika [16KPR],26,15
+130,Kohomologické metody v teoretické fyzice [02KOHOM],5,4
+131,Kombinatorika a pravděpodobnost [01KAP],12,5
+132,Koncepce informatické fyziky 1 [12KOF1],7,6
+133,Kritický experiment [17KE],12,0
+134,Krystalooptika [D12KO],3,0
+135,Kultura a reálie anglofonních zemí a ČR 2 [04ABR2],11,10
+136,Kvantová elektronika [12KVEN],16,10
+137,Kvantová fyzika [02KF],24,9
+138,Kvantová informace a komunikace [02KIK],8,8
+139,Kvantová mechanika [02KVAN],56,39
+140,Kvantová teorie pole 1 [02KTPE1],10,9
+141,Kvantová teorie pole 1 [02KTP1],4,4
+142,Kvantové grupy 1 [01KVGR1],1,1
+143,Kvantový kroužek 1 [02KVK1],2,1
+144,Laboratorní cvičení z fyziky 1 [02LCF1],5,0
+145,Laboratorní praxe pro energetiky [17LAPE],9,0
+146,Laboratorní technika [15LABT],28,14
+147,Laboratoř z mikrobiologie [15LMB],5,3
+148,Laserová technika 1 [12LT1],12,2
+149,Laserové plazma jako zdroj záření a částic [12LPZ],2,2
+150,Lékařská informatika pro techniky [16INZB],7,3
+151,"Lineární algebra A 1, zkouška [01LALA]",235,36
+152,"Lineární algebra B 1, zkouška [01LALB]",281,66
+153,Lineární algebra 1 [01LAL],271,208
+154,Lineární algebra 1 [818LI1],22,9
+155,Lineární programování [01LIP],19,18
+156,Lineární programování [818LPB],12,5
+157,Lineární programování B [01LIPB],13,8
+158,Logika pro matematiky [01LOM],1,0
+159,Lomová mechanika 1 [14LME1],4,1
+160,Magisterská angličtina 1 [04MGA1],10,0
+161,Magnetické materiály [11MAM],1,1
+162,Makroekonomie 1 [18MAK1],20,9
+163,Makroekonomie 1 [818MAKE1],12,10
+164,"Matematická analýza A 1, zkouška [01MANA]",244,34
+165,Matematická analýza A3 [01MAA3],29,17
+166,"Matematická analýza B 1, zkouška [01MANB]",296,56
+167,Matematická analýza B 3 [818MAB3],10,2
+168,Matematická analýza B3 [01MAB3],91,44
+169,Matematická analýza 1 [01MAN],274,194
+170,Matematická analýza 1 [818MA1],27,13
+171,Matematická ekonomie 1 [18EKO1],45,11
+172,Matematická ekonomie 1 [818ME1],22,10
+173,Matematické metody a modelování [16MMM],2,1
+174,Matematické metody v dynamice tekutin 1 [01MMDT1],6,5
+175,Matematické minimum 1 [00MAM1],214,188
+176,Matematické minimum 2 [00MAM2],128,44
+177,Matematické modelování nelineárních systémů [01MMNS],15,5
+178,Matematické techniky v biologii a medicíně [01MBI],9,4
+179,"Matematika, zkouška 1 [01MATZ1]",129,18
+180,Matematika 1 [01MAT1],120,48
+181,Matematika 3 [01MAT3],36,25
+182,Materiály pro experimentální jadernou fyziku [02MAT],12,3
+183,Mechanika [02MECH],302,183
+184,Mechanika - zkouška [02MECHZ],326,76
+185,Měření a zpracování dat [15MZD],10,7
+186,Metoda konečných objemů [01MKO],2,0
+187,Metoda Monte Carlo [18MMC],52,43
+188,Metoda Monte Carlo v dozimetrii [D16MMCD],5,1
+189,Metody měření a vyhodnocení ioniz. záření [16MER],9,6
+190,Metody počítačové fyziky 1 [12MPF1],4,2
+191,Metody pro řídké matice [01MRM],10,8
+192,Metrologie ionizujícího záření [16MEIZ],5,5
+193,Mikrodozimetrie [16MDOZ],5,2
+194,Mikroekonomie 1 [18MIK1],49,11
+195,Mikroekonomie 1 [818MIK1],22,10
+196,Mikroprocesory 1 [12MPR1],4,0
+197,Modelování a řízení spojitých systémů [18MRSS],6,2
+198,Modelování a simulace migrace radionuklidů v životním prostředí [15MSZP],2,2
+199,Modelování produkčních systémů v ekonomice [18MOPR],14,11
+200,Modely a metody ekonomického rozhodování [18MEK],14,11
+201,Moderní experimentální metody [11MEM],1,1
+202,Moderní měřicí metody [11MMM],1,1
+203,Nanoelektronika [12NAE],4,3
+204,Nanofyzika [12NF],13,13
+205,Nanochemie [12NCH],4,1
+206,Nanoskopie a nanocharakterizace [12NAN],7,6
+207,Nanotechnologie [12NT],11,11
+208,Nástroje pro simulace a analýzu dat [02NSAD],12,1
+209,Nauka o materiálu [14NMA],27,26
+210,Návrh a řízení experimentu [17NRE],16,6
+211,Návrh experimentů [01NEX],15,0
+212,Nedestruktivní diagnostika [14NEDI],10,10
+213,Nekovové materiály [14NEKO],12,12
+214,Nelineární programování [01NELI],6,4
+215,Němčina M1 [04NM1],55,42
+216,Němčina M3 [04NM3],40,32
+217,Němčina P1 [04NP1],2,1
+218,Němčina P3 [04NP3],10,10
+219,Německý jazyk 1 [818N1],12,7
+220,Německý jazyk 3 [818N3],3,3
+221,Neuronové sítě a jejich aplikace [01NSAP],27,6
+222,Neuronové sítě 1 [818NES1],9,6
+223,Nízkoteplotní plazma a výboje [12NIPL],2,0
+224,Nové jaderné zdroje [17NJZ],7,5
+225,Numerická matematika [01NUM1],37,25
+226,Numerické metody 1 [818NME1],10,2
+227,Numerický software [01NUSO],13,10
+228,Obecná farmakologie [15OFKL],5,4
+229,Obecná chemie [15OCH],30,18
+230,Obecná chemie 1 [15CH1],119,112
+231,Objektově orientované programování [18OOP],22,17
+232,Odborná praxe [11PRAK],1,0
+233,Ochrana životního prostředí [15ZOCH],3,3
+234,Operační systémy [12OSY],3,0
+235,Operátorský kurz na reaktoru VR-1 [17OPK],13,13
+236,Optické komunikace [12OPK],3,1
+237,Optické metody monitorování atmosféry a dálkového průzkumu [D12OMMA],1,0
+238,Optické vlastnosti pevných látek [11OPT],3,1
+239,Optické vlastnosti polovodičů [12OVP],6,4
+240,Optické zpracování signálů [12OZS],14,13
+241,Organická chemie 2 [15ORC2],11,6
+242,Otevřené rezonátory [12ORE],4,3
+243,"Patologie, anatomie a fyziologie v zobrazovacích metodách 2 [16PAFZ2]",5,5
+244,Pinče [02PINC],3,3
+245,Plasticita 2 [14PLAS2],9,9
+246,Počítače a přirozený jazyk 1 [01POPJ1],5,1
+247,Počítačová algebra [12POAL],5,2
+248,Počítačová grafika 1 [01POGR1],37,10
+249,Počítačové řízení experimentů [17PRE],7,3
+250,Počítačové simulace kondenzovaných látek [11SIKL],4,2
+251,Počítačové simulace ve fyzice mnoha částic 1 [12SFMC1],2,0
+252,Počítačové sítě 1 [01SITE1],14,7
+253,Pokročilé laserové spektroskopie [12PLS],9,8
+254,Pokročilé partie numerické lineární algebry [01PNLA],16,12
+255,Práce s odborným textem 1 [04ABO1],13,8
+256,Praktická informatika pro inženýry 2 [12PIN2],30,9
+257,Praktika fyziky plazmatu 1 [02PRPL1],11,0
+258,Praktikum metod konečných prvků [14PMKP],11,3
+259,Praktikum z analytické chemie [15ALPN],8,8
+260,Praktikum z detekce a dozimetrie ionizujícího záření [16PDZ],14,11
+261,Praktikum z detekce a dozimetrie ionizujícího záření pro bakaláře [16PDZB],7,3
+262,Praktikum ze separačních metod [15SEPM],8,5
+263,Praktikum z fyzikální chemie [15PFCH],18,14
+264,Praktikum z jaderné chemie [15PJCH],9,5
+265,Praktikum z makromolekulární krystalografie 1 [11PMK1],1,0
+266,Praktikum z organické chemie [15POCH],7,6
+267,Praktikum z radiochemické techniky [15RATEC],15,11
+268,Pravděpodobnost a aplikovaná statistika [18AST],12,8
+269,Pravděpodobnost a matematická statistika 1 [01PRA1],18,13
+270,Pravděpodobnost a statistika [01PRST],48,23
+271,Pravděpodobnost a statistika [18PST],11,8
+272,Pravděpodobnost a statistika B [01PRSTB],2,1
+273,Pravděpodobnostní modely učení [01PMU],7,0
+274,Pravděpodobnostní modely umělé inteligence [01UMIN],10,6
+275,Prezentace a interpretace textu [04ABI],9,7
+276,Principy a aplikace optických sensorů [11PAO],1,0
+277,Principy aplikací ionizujícího záření [16UAZB],5,0
+278,Principy etického chování ve zdravotnictví [16EZB],8,7
+279,Problematika neionizujícího záření [16FNZB],1,1
+280,Programátorské praktikum [01PROP],10,3
+281,Programování periferií [01PERI],14,13
+282,Programování pro .NET [18NET],8,1
+283,Programování pro Windows [01PW],20,19
+284,Programování v C++ 1 [18PRC1],78,37
+285,Programování v C++ 1 [818PRC1],13,10
+286,Programování v JAVĚ [18PJ],28,7
+287,Programování v Javě 1 [818JAV1],7,5
+288,Programování v MATLABu [18MTL],46,7
+289,Programování v MATLABU [818MTL],13,10
+290,Projektové praktikum 1 [02PPRA1],11,11
+291,"Prostředí webu, programovací a popisné jazyky [18WEB]",13,8
+292,"Prostředí WEBu, programovací a popisné jazyky [818WEB]",8,8
+293,Průmyslový vývoj softwaru [18PVS],5,5
+294,Přibližné výpočty v kvantové mechanice 1 [02NVKM1],11,8
+295,Příprava radionuklidů [15PRN],9,5
+296,Přípravný kurz z matematiky 1 [818PKM1],22,10
+297,Přípravný týden [00PT],364,284
+298,Přístroje jaderné techniky [17PRJT],9,8
+299,Přístrojová technika [17PTA],1,0
+300,Publikační systém LaTeX [818PSL],8,5
+301,Působení ionizujícího záření na látku [16REB],11,0
+302,Radiační efekty v látce [16REL],9,7
+303,Radiační ochrana [16RAO],20,15
+304,Radiofarmaka 1 [15RDFM],5,1
+305,Radiofarmaka 2 [15RFM2],5,4
+306,Radiologická fyzika-nukleární medicína [16RFNM],7,5
+307,Radiologická fyzika-radioterapie 2 [16RFRT2],4,2
+308,Radiologická fyzika-rentgenová diagnostika [16RFRD],7,5
+309,Radiologická technika-nukleární medicína [16RTNM],7,0
+310,Radiologická technika-rentgenová diagnostika [16RTDG],9,1
+311,Radioterapie-klinická praxe 2 [16RTKP2],4,1
+312,Regresní analýza dat [01REGA],17,13
+313,Regulace a senzory [12RSEN],3,2
+314,Relativistická fyzika 1 [02REL1],7,3
+315,Rentgenová diagnostika-klinická praxe [16RDKP],7,6
+316,Rentgenová diagnostika - klinická praxe pro techniky [16RDKB],7,3
+317,Rentgenová fotonika [12RFO],14,13
+318,Rovnice matematické fyziky [01RMF],83,36
+319,Rozhovory o kvark-gluonovém plazmatu 1 [02RQGP1],9,9
+320,Rozhovory o kvark-gluonovém plazmatu 3 [02RQGP3],6,5
+321,Rozhovory o kvark-gluonovém plazmatu 5 [02RQGP5],5,5
+322,Rozvíjení řečových dovedností 1 [04ABK1],42,14
+323,Rozvíjení řečových dovedností 3 [04ABK3],9,8
+324,Ruština M1 [04RM1],4,4
+325,Ruština M3 [04RM3],13,8
+326,Ruština P1 [04RP1],1,1
+327,Ruština Z2 [04RZ2],14,12
+328,Ruština Z4 [04RZ4],21,18
+329,Řízení jaderných elektráren [17RJE],6,0
+330,Řízení softwarových projektů [01RSWP],2,0
+331,Samovolně rostoucí struktury vybraných nanomateriálů [12SRS],3,0
+332,Semestrální práce [16SEPB],1,0
+333,Seminář FTTF1 [02STF1],7,1
+334,Seminář k bakalářské práci [18SBAK],2,0
+335,Seminář k bakalářské práci 1 [12SBA1],1,1
+336,Seminář k diplomové práci 1 [12DSEIF1],3,2
+337,Seminář k diplomové práci 1 [12DSELT1],3,3
+338,Seminář k diplomové práci 1 [12DSEOF1],10,10
+339,Seminář k diplomové práci 1 [18SDI1],11,9
+340,Seminář matematické fyziky [02SMF],25,18
+341,Seminář současné matematiky 1 [01SSM1],16,14
+342,Seminář z dozimetrie 1 [16SED1],14,14
+343,Seminář z matematické analýzy B1 [01SMB1],62,56
+344,Seminář 1 [02SEMI1],8,8
+345,Seminář 1 [11SMI1],3,3
+346,Seminář 1 [15SEM1],5,3
+347,Seminář 1 [16SEM1],6,5
+348,Seminář 3 [11SMI3],2,2
+349,Separační metody v jaderné chemii 1 [15SMJ1],9,5
+350,Skenovací elektronová mikroskopie a metody mikrosvazkové analýzy [11SEM],1,1
+351,Sociální systémy a jejich simulace [01SSS],16,11
+352,Softcomputing [18SOFC],20,10
+353,Softwarové inženýrství [18SWI],16,11
+354,Softwarový projekt 1 [01SWP1],2,1
+355,Softwarový projek 3 [01SWP3],3,1
+356,Softwarový seminář 1 [01SOS1],24,23
+357,Souborná zkouška z matematiky B [01SZMB],3,0
+358,Specializované praktikum 1 [02SPRA1],2,2
+359,Spektrometrie v dozimetrii [16SPDO],2,2
+360,Spolehlivost jaderných elektráren [17SPJE],10,9
+361,Správa operačních systémů [818OSY],22,10
+362,Statistická optika [12SOP],8,6
+363,Statistické metody rozpoznávání a rozhodování [18SROZ],18,14
+364,Statistické zpracování dat [02SSD],10,5
+365,Stochastické metody v reaktorové fyzice [17SMRF],9,5
+366,Stochastické systémy [01STOS],6,1
+367,Stroje a zařízení jaderných elektráren [17SAZ],11,1
+368,Struktura a funkce biologických molekul [11SFBM],2,2
+369,Struktura pevných látek 1 [11SPL1],6,5
+370,Subatomová fyzika [02SF],17,11
+371,Supravodivost a fyzika nízkých teplot [11SUPR],8,7
+372,Systematizace jazykových prostředků 1 [04ABS1],43,15
+373,Systematizace jazykových prostředků 3 [04ABS3],11,9
+374,Španělština M1 [04SM1],6,2
+375,Španělština M3 [04SM3],6,6
+376,Španělština P1 [04SP1],1,1
+377,Španělština P3 [04SP3],1,1
+378,Španělština Z2 [04SZ2],12,7
+379,Španělština Z4 [04SZ4],9,8
+380,Technická mechanika [14TEM],3,3
+381,Technická mechanika [14TM],21,18
+382,Technologické celky jaderných elektráren 1 [17TCJ1],10,10
+383,Technologické celky jaderných elektráren 2 [17TCJ2],10,4
+384,Technologie palivového cyklu jaderných elektráren [15TPC],5,4
+385,Technologie zpracování odpadů [15TZO],1,0
+386,Tělesná výchova 1 [818TV1],7,7
+387,Tělesná výchova 3 [818TV3],2,2
+388,Teoretická fyzika 1 [02TEF1],100,66
+389,Teoretické základy radiační chemie [15TZRCH],1,0
+390,Teorie a konstrukce fotovoltaických článků [11PCPC],1,0
+391,Teorie finančních trhů [18TFT],13,7
+392,Teorie informace [01TIN],32,19
+393,Teorie náhodných matic [01TNM],12,9
+394,Teorie náhodných procesů [01NAH],28,20
+395,Teorie pevných látek 1 [11TPL1],4,4
+396,Teorie plasticity [D14TP],4,2
+397,Teorie plazmatu 1 [02TPLA1],10,8
+398,Teorie složitosti [01TSLO],14,4
+399,Teorie spolehlivosti [14TSPO],10,10
+400,Termohydraulický návrh jaderných zařízení 1 [17THNJ1],33,13
+401,Termohydraulický návrh jaderných zařízení 3 [17THNJ3],27,6
+402,Termohydraulický návrh jaderných zařízení 4 [17THNJ4],14,2
+403,Termomechanika reaktorů [17TERR],11,7
+404,Topologie [01TOP],7,4
+405,Toxikologie [15TOX],8,4
+406,Tvorba doménově specifických jazyků [18DTJ],1,1
+407,Tvorba internetových aplikací 1 [818INT1],8,7
+408,Týmový vývoj softwaru 1 [818TVS1],13,0
+409,Urychlovače částic [02UC],7,1
+410,Úvod do aplikací ionizujícího záření [16UAZ],11,7
+411,Úvod do bioinformatiky [01UBIO],10,5
+412,Úvod do částicové fyziky [16UCF],1,1
+413,Úvod do ekologie [16ZIVB],9,9
+414,Úvod do fotochemie a fotobiologie [15UFCB],1,0
+415,Úvod do fyziky elementárních částic [02UFEC],44,37
+416,Úvod do inženýrství [17UINZ],48,5
+417,Úvod do laserové techniky [12ULAT],11,10
+418,Úvod do laserové techniky [12ULT],8,3
+419,Úvod do mainframe [01UMF],8,5
+420,Úvod do managementu [12UM],15,8
+421,Úvod do objektové architektury [18UOA],10,0
+422,Úvod do objektového programování [01UOP],11,6
+423,Úvod do odborného jazyka 1 [04ABU1],41,15
+424,Úvod do pokročilých algoritmů 1 [18UIA1],7,2
+425,Úvod do práva 1 [818UPRA1],12,10
+426,Úvod do projektování jaderných zařízení [17PROJ],11,11
+427,Úvod do radiační fyziky 1 [16URF1],28,5
+428,Úvod do systému řízení jakosti ve zdravotnictví [16USRJ],9,8
+429,Úvod do zaměření [11UVOD],19,15
+430,Úvod do životního prostředí [16ZIVO],11,10
+431,Vakuová fyzika a technika [12VAK],20,0
+432,Variační metody [01VAM],18,15
+433,Variační metody B [01VAMB],14,11
+434,Vědecké programování v Pythonu [12PYTH],8,0
+435,Vláknové lasery a zesilovače [12VLA],8,5
+436,"Vlnění, optika a atomová fyzika [02VOAF]",113,55
+437,Vlnové jevy v pevných látkách [14VLN],7,6
+438,Vnitřní dynamika materiálů [11VDM],9,0
+439,Vnitřní dynamika materiálů [11VDYM],1,0
+440,Vnitřní dynamika materiálů [14VDYM],0,0
+441,Vybrané kapitoly z moderní optiky [12MODO],4,3
+442,Vybrané partie z dozimetrie [16VYPD],8,7
+443,Vybrané partie ze statistické fyziky a termodynamiky [02VPSF],7,6
+444,Vyčíslitelnost a matematická logika [01VYML],7,3
+445,Výjezdní seminář EJF1 [02EJFS1],17,0
+446,Výjezdní seminář EJF2 [02EJFS2],10,9
+447,Výjezdní seminář EJF3 [02EJFS3],8,8
+448,Zahr. stáž v rámci programů výměny studentů přes rektorát [00ZST1],5,5
+449,Základy aplikací ionizujícího záření ve vědě a technice [16ZAIZ],1,0
+450,"Základy biologie, anatomie a fyziologie člověka 1 [16ZBAF1]",19,8
+451,Základy dozimetrie [16ZDOZ1],14,6
+452,Základy ekonomického hodnocení [17ZEH],8,6
+453,Základy elektrodynamiky [12ZELD],20,17
+454,Základy elektroniky [17ZEL],23,7
+455,Základy elektroniky 1 [12ZEL1],62,40
+456,Základy energetiky a zdroje energie [17EZE],8,5
+457,Základy fyzikálních měření 1 [02ZFM1],159,107
+458,Základy fyziky jaderných reaktorů [17ZAFP],1,0
+459,Základy fyziky jaderných reaktorů 1 [17ZAF1],26,2
+460,Základy fyziky laserového plazmatu [12ZFLP],7,3
+461,Základy fyziky pevných látek [11ZFPL],14,3
+462,Základy jaderné bezpečnosti [17ZJBE],7,7
+463,Základy jaderné fyziky [02ZJF],33,14
+464,Základy jaderné fyziky B [02ZJFB],11,7
+465,Základy metrologie ionizujícího záření [16MEZB],5,0
+466,Základy optické fyziky [12ZAOF],3,0
+467,Základy optiky [12ZAOP],12,11
+468,Základy práce s počítačem [16ZPSP],75,29
+469,Základy preventivního lékařství pro techniky [16HEB],10,10
+470,Základy programování [18ZPRO],372,144
+471,Základy programování [818ZPRO],22,10
+472,Základy první pomoci [16ZPP],16,11
+473,Základy první pomoci pro techniky [16ZPPB],6,6
+474,Základy radiační ochrany [16RAOB],6,4
+475,Základy radiační ochrany [16ZRAO],27,14
+476,Základy teorie elektroslabých interakcí [02ZESI],10,8
+477,Základy teorie grafů [01ZTG],41,25
+478,Základy zpracování experimentálních dat [16ZEDB],1,0
+479,Zařízení jaderné techniky [16ZJT],13,10
+480,Závěrečná praxe [17PRAXB],8,0
+481,Závěrečná předdiplomní praxe [17PRAXD],13,13
+482,Zimní škola fyziky plazmatu a termojaderné fúze [02ZLSTF1],5,3
+483,Zimní škola matematické fyziky [02ZS],2,2
+484,Znalostní ekonomika [18ZNEK],13,11
+485,Znalostní ekonomika [818ZNEK],8,8
+486,Zpracování a rozpoznávání obrazu 2 [01ROZP2],28,22
+487,Zpracování dat pro publikování [12ZDP],15,11
+488,Zpracování dat pro publikování [818ZDP],8,8
+489,Zpracování experimentálních dat [16ZED],15,9
+490,Zpracování měření a dat [12ZMD],10,4
