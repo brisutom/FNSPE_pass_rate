@@ -73,4 +73,5 @@ if __name__ == "__main__":
                  "LS2018", "ZS2018"]
     frames = [load_semester_data(semester) for semester in semesters]
     df = pd.concat(frames)
+    df.to_csv("merged.csv")
     print(df)
