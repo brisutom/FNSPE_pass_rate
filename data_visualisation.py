@@ -13,7 +13,7 @@ department_codes = {"01": "KM", "02": "KF", "04": "KHV", "11": "KIPL", "12":
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-df = pd.read_csv("merged.csv", usecols=["name", "enrolled", "passed",
+df = pd.read_csv("data/merged.csv", usecols=["name", "enrolled", "passed",
                                         "pass rate", "semester"])
 df = df[df["enrolled"] != 0]
 df.dropna(subset=["pass rate"], inplace=True)

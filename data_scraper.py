@@ -55,14 +55,14 @@ def get_courses_stats(semester):
 
 
 def load_semester_data(semester):
-    if not os.path.isfile(semester + ".csv"):
+    if not os.path.isfile("data/" + semester + ".csv"):
         courses_stats = get_courses_stats(semester)
         df = pd.DataFrame.from_records(courses_stats, columns=["name",
                                                                "enrolled",
                                                                "passed"])
-        df.to_csv(semester + ".csv")
+        df.to_csv("data/" + semester + ".csv")
     else:
-        df = pd.read_csv(semester + ".csv", usecols=["name", "enrolled", "passed"])
+        df = pd.read_csv("data/" + semester + ".csv", usecols=["name", "enrolled", "passed"])
     df["pass rate"] = round(df["passed"] / df["enrolled"] * 100, 2)
     df["semester"] = semester
     return df
@@ -73,5 +73,5 @@ if __name__ == "__main__":
                  "LS2018", "ZS2018"]
     frames = [load_semester_data(semester) for semester in semesters]
     df = pd.concat(frames)
-    df.to_csv("merged.csv")
+    df.to_csv("data/merged.csv")
     print(df)
